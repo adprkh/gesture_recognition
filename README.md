@@ -10,7 +10,7 @@
 Tools/Technologies used
 
 	•Technology: Java, OpenCV
-	•Tool: Eclipse, eGit
+	•Tool: IntelliJ, Git
 
 2.	Library modules specifications
 
